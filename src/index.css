@@ -1,0 +1,28 @@
+*{
+    font-family: Helvetica;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --BG-color: #232526;
+    --second-color: #5ED7F2;
+    --third-color: #59C1D9;
+    --navbar-color: black;
+    --bordermovies-color: black;
+}
+
+body{
+    background-color:var(--BG-color) ;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: var(--second-color);
+}
+a:hover{
+    text-decoration: none;
+    color: var(--third-color);
+    transition: 0.7s;
+}
