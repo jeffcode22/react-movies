@@ -1,9 +1,11 @@
 # Este projeto foi feito assistindo esse tutorial: https://www.youtube.com/watch?v=XqxUHVVO7-U&t=3s
-## Porém não me prendi no vídeo e decidi fazer algumas modificações.
+### Porém não me prendi no vídeo e decidi fazer algumas modificações.
 
-## Pela primeira vez eu usei uma API, uma API de filmes e séries. Neste projeto usamos React Router e Hooks.
+### Pela primeira vez eu usei uma API, uma API de filmes e séries. Neste projeto usamos React Router e Hooks.
 
-# Funcionalidade:
+#### Link do projeto: https://react-movies-gilt.vercel.app/
+
+## Funcionalidade:
 
 ## O menu principal contém os melhores filmes segundo à API, também podemos buscar por qualquer filme ou série na navbar e teremos resultados mostrando várias informações sobre o filme/série.
 
